@@ -1,0 +1,18 @@
+.form {
+  margin-left: 40px;
+}
+
+.add_btn {
+  margin-left: 10px;
+  padding: 2px 25px 2px 25px;
+  border-radius: 8px;
+  background: rgb(164, 213, 250);
+  border: 0.1px solid rgb(10, 16, 21);
+
+}
+
+input {
+  width: 200px;
+  height: 16px;
+  border-radius: 8px;
+}

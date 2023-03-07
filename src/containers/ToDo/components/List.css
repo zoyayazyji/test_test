@@ -1,0 +1,28 @@
+.tasks {
+  display: block;
+  background: rgb(197, 224, 244);
+  width: 300px;
+  height: 100px;
+  border-radius: 8px;
+  box-shadow: 7px 9px 26px 6px rgba(34, 60, 80, 0.2);
+
+
+}
+
+.task {
+  display: block;
+
+}
+
+.item {
+  margin: 25px;
+  padding-top: 20px;
+
+}
+
+.btn {
+  margin-left: 70%;
+  border: 0.1px solid rgb(10, 16, 21);
+  border-radius: 8px;
+  background: rgb(164, 213, 250);
+}

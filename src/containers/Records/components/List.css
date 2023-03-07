@@ -1,0 +1,49 @@
+.record {
+  display: block;
+  background: rgb(210, 250, 164);
+  width: 300px;
+  height: 80px;
+  box-shadow: 7px 9px 26px 6px rgba(34, 60, 80, 0.2);
+  margin: 10px;
+}
+
+.list_records {
+  display: block;
+  width: 500px;
+  margin-right: 120px;
+}
+
+.record_btn {
+  cursor: pointer;
+  color: rgb(246, 98, 192);
+  font-size: 14px;
+  
+  font-style: italic;
+  margin-top: 20px;
+  padding: 5px;;
+  
+}
+.record_btn_container {
+  display: flex;
+}
+
+.input_records {
+  width: 300px;
+  height: 40px;
+  background-color: rgb(210, 250, 164);
+}
+
+.record_btn_save {
+ margin: 5px;
+ color: rgb(246, 98, 192);
+}
+.record_btn_back {
+  margin: 5px;
+  color: rgb(246, 98, 192);
+}
+.edit_btn_container {
+  display: flex;
+  flex-direction: row;
+  font-size: 12px;
+  
+}
