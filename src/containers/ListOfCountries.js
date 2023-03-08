@@ -76,7 +76,7 @@ const ListOfCountries = () => {
         preloader={preloader} />
       <section>
         <div className="container">
-          <h2>List of Countries</h2>
+          <h2>Check</h2>
           {countries.map((country, i) => (
             <Country
               key={i}
